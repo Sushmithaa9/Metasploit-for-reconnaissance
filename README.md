@@ -48,9 +48,7 @@ Open terminal and try execute some kali linux commands
 
 # Viewing the metasploit framework on root:
 
-<img width="732" height="397" alt="Screenshot 2025-09-22 092723" src="https://github.com/user-attachments/assets/cfc69af2-bb31-443d-a1e6-d4eefcdb9515" />
-
-
+<img width="306" height="64" alt="Screenshot 2025-09-29 085029" src="https://github.com/user-attachments/assets/6d0fdad7-1af7-4280-9af9-dede71d281ed" />
 
 
 
